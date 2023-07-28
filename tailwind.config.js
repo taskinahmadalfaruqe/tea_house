@@ -26,6 +26,7 @@ module.exports = {
         'product': "linear-gradient(180deg, #F4F4F4 0%, rgba(244, 244, 244, 0.0) 100%)",
         'tea1': "linear-gradient(270deg, #F00 0%, #FF8938 100%)",
         'tea4': "linear-gradient(90deg, #D9D9D9 0%, rgba(255, 255, 255, 0.00) 100%)",
+        'footer': "linear-gradient(270deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 137, 56, 0.10) 100%);",
       },
 
       colors: {
